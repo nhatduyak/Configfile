@@ -1,0 +1,20 @@
+<app>
+  <checkVPN>false</checkVPN>
+  <ad1>False</ad1>
+  <ad2>False</ad2>
+  <ad3>True</ad3>
+  <ad4>True</ad4>
+  <ad5>False</ad5>
+  <ad6>True</ad6>
+  <ad7>False</ad7>
+  <ad8>False</ad8>
+  <gbanner>ca-app-pub-3268203072764289/3980697253</gbanner>
+  <gfull>ca-app-pub-3268203072764289/5457430458</gfull>
+  <amazon>5457ae7aa1924cbe9234d8c53b452702</amazon>
+  <adcolonyAppID>appd4d9058bf7ad4028a0</adcolonyAppID>
+  <adcolonyZoneID>vzb45f5e48292a4fc5bb</adcolonyZoneID>
+  <revmobid>55b37e6ca96787c13b348b9c</revmobid>
+  <vungleid>1102151101</vungleid>
+  <unityid>1064259</unityid>
+  <sonicid>483e7fc5</sonicid>
+</app>
